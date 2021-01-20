@@ -1,4 +1,3 @@
-% cd ~/Desktop/Upwork/Final_Project_ML/DataSet/DataSet-Q3/
 clear
 clc
 close all
